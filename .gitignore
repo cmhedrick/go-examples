@@ -1,0 +1,11 @@
+# ignore go binary files
+# encytion/
+encrypt
+# functions1/
+multiply
+# packet-manip/
+main
+# read-write-files/
+copyfile
+read-file
+write-file
