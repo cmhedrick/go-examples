@@ -1,8 +1,11 @@
 # ignore go binary files
+# cli
+cli
 # encytion/
 encrypt
 decryption
 *.data
+*.txt
 # functions1/
 multiply
 # packet-manip/
