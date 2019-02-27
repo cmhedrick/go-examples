@@ -1,6 +1,7 @@
 # ignore go binary files
 # encytion/
 encrypt
+decryption
 *.data
 # functions1/
 multiply
